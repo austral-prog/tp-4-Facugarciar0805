@@ -31,5 +31,3 @@ def line():
     print(f"La distancia entre ellos es: {(distanciaX+distanciaY)**(1/2)}")
 
 
-line()
-
